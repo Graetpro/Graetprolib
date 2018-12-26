@@ -1,4 +1,4 @@
 # Graetprolib
 Graetpro's Library
 
-Need gson any version
+Need gson-2.8.5 or higher
