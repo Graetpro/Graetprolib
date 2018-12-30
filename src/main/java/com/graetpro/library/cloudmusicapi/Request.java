@@ -12,7 +12,7 @@ public class Request {
 
         HttpURLConnection conn = (HttpURLConnection) restURL.openConnection();
 
-        conn.setRequestMethod("GET"); // POST GET PUT DELETE
+        conn.setRequestMethod("GET");
         conn.setRequestProperty("Accept", "application/json");
 
         BufferedReader br = new BufferedReader(new InputStreamReader(conn.getInputStream()));

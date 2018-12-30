@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00000000</color>
+    <color name="halftransparent">#55000000</color>
+    <color name="eightransparent">#88000000</color>
+    <color name="uitransparent">#33000000</color>
+    <color name="fonttransparent">#55FFFFFF</color>
+    <color name="uitransparent_white">#33FFFFFF</color>
+    <color name="halftransparent_white">#55FFFFFF</color>
+    <color name="eightransparent_white">#88FFFFFF</color>
 </resources>
